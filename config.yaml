@@ -1,4 +1,3 @@
-path: ~/work/yolo
 train: data/images/train
 val: data/images/val
 
