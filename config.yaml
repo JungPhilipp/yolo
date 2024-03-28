@@ -1,0 +1,8 @@
+path: ~/work/yolo
+train: data/images/train
+val: data/images/val
+
+names:
+  0: good_cat
+  1: bad_cat
+
