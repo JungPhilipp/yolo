@@ -191,3 +191,7 @@ datasets/data/images/raw/
 runs/
 
 *.pt
+
+*.jpg
+*.txt
+*.JPG
